@@ -1,0 +1,38 @@
+.. _api_ref:
+
+=============
+API Reference
+=============
+
+This is the class and function reference of echartslib.
+Please refer to the user guide for further details, as the class and function raw specifications may not be enough to give full guidelines on their uses.
+
+
+Container Class
+=======================================================
+
+.. currentmodule:: echartslib
+
+.. autosummary::
+   :toctree: generated/
+
+   Figure
+   SubPlots
+
+Plot Function
+=======================================================
+
+.. currentmodule:: echartslib
+
+.. autosummary::
+   :toctree: generated/
+
+   scatterplot
+   lineplot
+   barplot
+   boxplot
+   heatmap
+   histplot
+   kdeplot
+   graphplot
+   treeplot

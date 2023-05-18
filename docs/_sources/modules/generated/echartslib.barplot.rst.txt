@@ -1,0 +1,6 @@
+﻿echartslib.barplot
+==================
+
+.. currentmodule:: echartslib
+
+.. autofunction:: barplot

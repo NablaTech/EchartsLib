@@ -1,0 +1,34 @@
+.. _installation-instructions:
+
+=======================
+Installation
+=======================
+
+Quick Install
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Echartslib currently supports various os platforms and python versions, including [py37, py38, py39, py310] for Windows platform.
+
+You can install Echartslib directly on these environments by 
+
+.. prompt:: bash $
+
+    pip install EchartsLib
+
+
+Dependencies
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Echartslib requires the following packages:
+
+======================= ===================
+Dependency              Minimum Version    
+======================= ===================
+ipython					7.12.0
+numpy					1.21.4
+scipy					1.5.3
+matplotlib				3.1.2
+scikit-learn			0.24.2
+packaging				20.5
+======================= ===================
+

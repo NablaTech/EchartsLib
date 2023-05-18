@@ -1,0 +1,6 @@
+﻿echartslib.heatmap
+==================
+
+.. currentmodule:: echartslib
+
+.. autofunction:: heatmap
