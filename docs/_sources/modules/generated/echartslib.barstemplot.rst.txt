@@ -1,6 +1,0 @@
-﻿echartslib.barstemplot
-======================
-
-.. currentmodule:: echartslib
-
-.. autofunction:: barstemplot

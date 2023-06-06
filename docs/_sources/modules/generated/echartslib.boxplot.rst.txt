@@ -1,6 +1,0 @@
-﻿echartslib.boxplot
-==================
-
-.. currentmodule:: echartslib
-
-.. autofunction:: boxplot

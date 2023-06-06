@@ -1,6 +1,0 @@
-﻿echartslib.kdeplot
-==================
-
-.. currentmodule:: echartslib
-
-.. autofunction:: kdeplot

@@ -1,6 +1,0 @@
-﻿echartslib.histplot
-===================
-
-.. currentmodule:: echartslib
-
-.. autofunction:: histplot

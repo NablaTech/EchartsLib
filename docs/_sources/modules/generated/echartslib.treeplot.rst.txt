@@ -1,6 +1,0 @@
-﻿echartslib.treeplot
-===================
-
-.. currentmodule:: echartslib
-
-.. autofunction:: treeplot
